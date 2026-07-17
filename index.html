@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Compliance AI System</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+
+<body>
+
+<div class="container">
+
+    <h1>Compliance Monitoring Dashboard</h1>
+
+    <form method="POST">
+        <textarea name="email" placeholder="Enter email text..." required></textarea>
+        <button type="submit">Analyze</button>
+    </form>
+
+    {% if result %}
+
+    <div class="card">
+
+        <h2>Result Dashboard</h2>
+
+        <p><b>Email:</b> {{ result.email }}</p>
+        <p><b>Category:</b> {{ result.category }}</p>
+        <p><b>Reason:</b> {{ result.reason }}</p>
+        <p><b>Classification:</b> {{ result.classification }}</p>
+        <p><b>Risk Score:</b> {{ result.risk_score }}</p>
+        <p><b>Priority:</b> {{ result.priority }}</p>
+
+    </div>
+
+    {% endif %}
+
+</div>
+
+</body>
+</html>
