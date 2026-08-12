@@ -1,0 +1,177 @@
+Example 1:
+Email Sample:
+From: trey.comiskey@mycompany.com
+
+To: kenneth.cooper@am.newcompany.com
+
+Subject: Agreement of Confidentiality
+
+Body: Ken - Thanks again for your time yesterday.
+
+Here is the C.A. per our discussion, signature and faxing back to me at 713.853.0528.
+
+Pls do not disclose the C.A. until it is signed by the appropriate party here, we will have a fully-signed copy faxed to you for your records.
+
+Should you have questions or comments, please Mr. Comiskey.
+
+Thank you.
+
+Category: Secrecy
+Classification: False Positive
+
+Example 2:
+Email Sample:
+From: msagel@home.com
+
+To: jarnold@mycompany.com
+
+Subject: Agreement
+
+Body: John:
+
+Hope you did ok today.
+
+As I said yesterday, the poor close Monday should lead to additional market weakness, which we saw today.
+
+You indicated that you would mail the service agreement back to me. I don't know if you have the mailing address, so here it is:
+
+Psytech Analytics
+
+11604 Greenspring Ave.
+
+Lutherville, MD 21093
+
+CH
+
+Speak to you over phone later during the day once I have decent set-up on my work for natural.
+
+Feel free to ding me on whatsapp anytime.
+
+Mack
+
+Category: Change in communication
+Classification: True Positive
+
+Example 3:
+Email Sample:
+From: outlook.team@mycompany.com
+
+To: aimee.shek@mycompany.com, albino.lopez@mycompany.com,
+
+andrea.williams@mycompany.com,
+
+anitha.mathis@mycompany.com, antonette.concepcion@mycompany.com,
+
+Subject: 3-URGENT - TO PREVENT LOSS OF INFORMATION
+
+Body: Critical Migration Information:
+
+1. Your scheduled Outlook Migration Date is THE EVENING OF: May 15th
+
+2. You need to press the "Save My Data" button (only once) to send us your pre-migration information.
+
+3. You must be connected to the network before you press the button.
+
+4. If a POP-UP BOX appears, prompting you to "ABORT, CANCEL OR TRUST SIGNER" please select TRUST SIGNER.
+
+5. Any information you Add to your Personal Address Book, Journal or calendar after you click on the button will need to be manually re-added into Outlook after you have been migrated.
+
+6. Clicking this button does not complete your migration to Outlook. Your migration will be completed the evening of your migration date.
+
+If you have failed to click on the button means your migration activity will be canceled and WILL NOT get your Calendar, Contacts, Journal and ToDo information imported into Outlook the day of your migration and could result in up to a 2 week delay to restore this information.
+
+If you encounter any errors please contact the resolution center @713-853-1411
+
+Category: Complaints
+Classification: False Positive
+
+Example 4:
+Email Sample:
+From: sarah-joy.hunter@mycompany.com
+
+To: jeffrey.shankman@mycompany.com
+
+Subject: Continental Briefing for Enron/Continental meeting December 12th
+
+from 1:30-2:30/trading floor tour 2:30-3:00
+
+Body: Mr. Shankman:
+
+In preparation for the meeting on December 12th with Larry Kellner, CFO, Continental Airlines, I have noted below some background on the Enron/Continental relationship and the purpose for the meeting. Mr. Shankman, please advise if you would like me to distribute this to the attendees.
+
+EXECUTIVE SUMMARY:
+
+Over the past several years Enron has been hedging Continental's crude oil. The relationship has been beneficial to both sides. As a result, since 1999 Enron has made over $9 million and Continental has saved over $45 million.
+
+The purpose for the December 12th meeting is to address three initiatives in order of economic value: (1) fuel management, (2) weather derivatives, and (3) plastics hedging Vaß analysis. Several new initiatives being proposed to Continental include the following:
+
+exchanging call options on crude oil for airline tickets (Craig Breslau, Originator)
+
+transacting financial swaps on line (Larry Gagliardi, Originator)
+
+creating a weather derivative product for the airline industry (Mark Tawney and Gary Taylor, Originators) outsourcing Continental's antifreeze and plastics risks by hedging these products with Enron (Alan Engberg, Originator)
+
+Meeting Attendees from Continental Airlines:
+
+Ron Howard, Vice President, Food Services Larry Kellner, Chief Financial Officer Jeff Misner, Vice President and Treasurer (tentative) Greg Hartford, Vice President, Fuel Management Company
+
+Meeting Attendees from Enron:
+
+Jeff Shankman, President and COO, Enron Global Markets John Nowlan, Vice President, Enron Global Markets Craig Breslau, Vice President, Enron North America Mark Tawney, Director, Enron Global Markets (tentative)
+
+DISCUSSION:
+
+(Developed through conversations with Alan Engberg, Larry Gagliardi, Gary Taylor, Craig Breslau, Tracy Ramsey and Lucy Ortiz.)
+
+Enron Buy Side with Continental:
+
+Current Enron verifiable spend on Continental airline tickets was approximately $40 million in FY 1999 and $17.5 million for the first six months of 2000.
+
+Enron Sell Side with Continental:
+
+(1) FUEL MANAGEMENT:
+
+Current Business: Over the past 2 years, Craig Breslau and others have been managing a strong relationship with Greg Hartford, VP, Continental Fuel Management, hedging Continental's crude oil. The first transaction was on January 14, 1998 a one month Forward on Kero. Since then, Enron has completed 29 transactions with two commodities: KERO and Crude. Current business consists of three crude call options, settling in December 2000 ($31.00) and January, 2001 ($34.00 and $35.00)
+
+Value to Enron: Enron has earned $9,682,084 (1999-October 6, 2000)
+
+Value to Continental:
+
+Continental has saved $45,001,744 (1999-October 6, 2000)
+
+Possible next steps:
+
+This proposition is being considered by Ron Howard's team at Continental. Continental needs to share their antifreeze spend with Enron. Enron could then develop a proposal to Continental that includes perceived benefits of outsourcing their commodity risk to Enron. Could a follow-up meeting with Ron Howard's team and Larry Kellner's designated contact be arranged to facilitate this process?
+
+CONFIDENTIAL: The content of this email is confidential and intended for the recipient specified in message only. It is strictly forbidden to share any part of this message with any third party, without a written consent of the sender. If you received this message by mistake, please reply to this message and follow with its deletion, so that we can ensure such a mistake does not occur in the future.
+
+Category: Market Manipulation / Misconduct
+Classification: True Positive
+
+Example 5:
+Email Sample:
+From: chris.gaskill@mycompany.com
+
+To: john.arnold@mycompany.com
+
+Subject: gas message board access
+
+Body: John, is access to the board on a password basis now? If so, when you get a chance could you authorise access for myself and Andew Hill (a colleague in crude fundamentals) please? A similar board for crude and products should be ready within a couple of weeks. Thanks
+
+Chris
+
+Category: Secrecy
+Classification: False Positive
+
+Example 6:
+Email Sample:
+From: kim.ward@mycompany.com
+
+To: john.arnold@mycompany.com
+
+Subject: RE:
+
+Body: so who are the drinks on until I do?.....
+
+Category: Employee ethics
+Classification: True Positive

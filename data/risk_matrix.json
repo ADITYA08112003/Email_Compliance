@@ -1,0 +1,36 @@
+{
+    "Secrecy": {
+        "score": 95,
+        "priority": "CRITICAL"
+    },
+
+    "Market Manipulation / Misconduct": {
+        "score": 100,
+        "priority": "CRITICAL"
+    },
+
+    "Market Bribery": {
+        "score": 98,
+        "priority": "CRITICAL"
+    },
+
+    "Change in communication": {
+        "score": 70,
+        "priority": "MEDIUM"
+    },
+
+    "Complaints": {
+        "score": 55,
+        "priority": "LOW"
+    },
+
+    "Employee ethics": {
+        "score": 85,
+        "priority": "MEDIUM"
+    },
+
+    "No Compliance Risk": {
+        "score": 0,
+        "priority": "LOW"
+    }
+}
